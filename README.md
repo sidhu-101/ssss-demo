@@ -1,2 +1,2 @@
 # ssss-demo
-Understand the Git &amp; GitHub
+Understand the Git &amp; GitHub.
